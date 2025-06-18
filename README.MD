@@ -24,5 +24,5 @@ python download.py \
 ```
 
 - `code`is the unique strings between `TILE` and `FREQ.tif`, e.g. n26w100_2020_0p50_P_1in500.tif, `code` here is **2020_0p50_P**.
-- `ck` is user unique Cookies, follow the instruction [here](./Instructions for Downloading TWDB Flood Data_AGB.docx) to get your Cookies.
+- `ck` is user unique Cookies, follow the instruction [here](./Instructions%20for%20Downloading%20TWDB%20Flood%20Data_AGB.docx) to get your Cookies.
 - `workers` enables parallel downloading, default core number is **8**.
