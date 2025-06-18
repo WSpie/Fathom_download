@@ -1,4 +1,4 @@
-Source [Flood Planning Submission Collector](https://twdb.sharepoint.com/teams/Flood_Planning_Submission_Collector/Shared%20Documents/Forms/All.aspx?id=%2Fteams%2FFlood%5FPlanning%5FSubmission%5FCollector%2FShared%20Documents%2FCursory%20Floodplain%20Dataset%20Phase%202%2FCursory%20Floodplain%20Phase%202%20%2D%20Downloads&viewid=bdced3a4%2D41bd%2D4507%2D9dd6%2D466171b55b9e&p=true&ga=1)
+Source [Flood Planning Submission Collector](https://twdb-flood-planning-resources-twdb.hub.arcgis.com/pages/cursory-floodplain-data-2025)
 
 The code will iterate all the tiles with all the frequencies in parallel, for each instance, will try at most 5 times with random pause if returned state code **429**, and the <u>download_errors.log</u> can be found inside each frequency sub folder.
 
